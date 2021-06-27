@@ -4,8 +4,8 @@
 - 🎓 Currently focused on: Golang
 
 <a href="https://github.com/alhasaniq" style="text-align:center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alhasaniq&show_icons=true&theme=default&count_private=true&bg_color=77deg,1CB5E0,000851&title_color=FFFFFF&text_color=86e3ff&icon_color=010b54&hide_border=true" alt="AlhasanIQ's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasaniq&layout=compact&langs_count=8&hide=cpp&bg_color=77deg,000851,1CB5E0&title_color=FFFFFF&text_color=86e3ff&icon_color=010b54&hide_border=true" alt="AlhasanIQ's github top languages" />
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=alhasaniq&show_icons=true&theme=default&count_private=true&bg_color=77deg,1CB5E0,000851&title_color=FFFFFF&text_color=86e3ff&icon_color=010b54&hide_border=true" alt="AlhasanIQ's github stats" />
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasaniq&layout=compact&langs_count=8&hide=cpp&bg_color=77deg,000851,1CB5E0&title_color=FFFFFF&text_color=86e3ff&icon_color=010b54&hide_border=true" alt="AlhasanIQ's github top languages" />
 </a>
 <br/>
 
